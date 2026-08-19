@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/SkyChartExporter">
+        <file>sce_on.png</file>
+        <file>sce_off.png</file>
+    </qresource>
+</RCC>
